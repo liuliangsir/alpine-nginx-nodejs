@@ -1,4 +1,5 @@
 FROM nginx:1.15.7-alpine
+FROM alpine:3.8
 FROM node:8.6.0-alpine
 LABEL maintainer="Xin Hu <hoosin.git@gmail.com>"
 
